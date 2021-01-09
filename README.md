@@ -17,21 +17,20 @@
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Anaconda" width="30px" src="https://pydata.org/london2018/media/sponsor_files/Anaconda_stacked_RGB.png"/>
+<img align="left" alt="Anaconda" width="40" src="https://pydata.org/london2018/media/sponsor_files/Anaconda_stacked_RGB.png"/>
 
-<img align="center" alt="Jupyter" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHQsiZ_G2lIa5gYMGLWBK7T-_XDyRLyxGDg&usqp=CAU" />
+<img align="center" alt="Jupyter" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHQsiZ_G2lIa5gYMGLWBK7T-_XDyRLyxGDg&usqp=CAU" />
 
-<img align="center" alt="TensorFlow" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjasst-lmQ2zB9sMNPQxQAXrvDmDHxxSNLw&usqp=CAU" />
+<img align="center" alt="TensorFlow" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjasst-lmQ2zB9sMNPQxQAXrvDmDHxxSNLw&usqp=CAU" />
 
-<img align="left" alt="Apache Spark" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wS69x0hzjZx6VqzntgoIqMWrJbFnVlhLrQ&usqp=CAU" />
+<img align="left" alt="Apache Spark" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wS69x0hzjZx6VqzntgoIqMWrJbFnVlhLrQ&usqp=CAU" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="AWS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4YUAN1xmci1gw5jtBhuq1PKCNLe7Xxh1Dw&usqp=CAU" />
 
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 
@@ -39,7 +38,7 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 

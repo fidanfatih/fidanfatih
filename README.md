@@ -1,16 +1,13 @@
-### Hi there 👋
+﻿### Hi there, I'm Raşit :raising_hand_man:
 
-<!--
-**Kirshoff/Kirshoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- :100: I have been fascinated by the power of the data.
+- :writing_hand: I can use Python, SQL and BI tools for Data Analysis and Machine Learning.
+- :running_man: I am currently improving my skills with NLP and Deep Learning.
+- :handshake: I always open to new ideas and new experiences.
+- 📫 You can reach me from:
+  - :atom: [LinkedIn]( https://www.linkedin.com/in/fatih-fidan-96979a158/)
+  - :pencil2: [Medium](https://fatihfidan.medium.com/)
+  - :bar_chart:[Tableau](https://public.tableau.com/profile/fatih.fidan#!/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

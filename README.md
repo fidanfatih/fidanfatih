@@ -1,4 +1,4 @@
-﻿### Hi there, I'm Raşit :raising_hand_man:
+﻿### Hi there, I'm Fatih :raising_hand_man:
 
 
 - :100: I have been fascinated by the power of the data.

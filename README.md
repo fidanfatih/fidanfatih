@@ -6,11 +6,6 @@
 - :running_man: I am currently improving my skills with NLP and Deep Learning.
 - :handshake: I always open to new ideas and new experiences.
 
-### Connect with me:
-
-[<img align="left" alt="Ersin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/ersin-sen-198b94195)
-[<img align="left" alt="Ersin | Github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/livetoworldlife)
-<br />
 
 ### Languages and Tools:
 
@@ -27,7 +22,7 @@
 
 <img align="left" alt="Apache Spark" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wS69x0hzjZx6VqzntgoIqMWrJbFnVlhLrQ&usqp=CAU" />
 
-<img align="left" alt="MS SQL" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bZ6mp9bzhrY-GE_tXp_YOv0tUw5KtB4CfQ&usqp=CAU" />
+<img align="left" alt="MS SQL" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bZ6mp9bzhrY-GE_tXp_YOv0tUw5KtB4CfQ&usqp=CAU" />
 
 <img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 
@@ -42,7 +37,8 @@
 <br />
 <br />
 
-- 📫 You can reach me from:
+### Connect with me:
+
   - :atom: [LinkedIn]( https://www.linkedin.com/in/fatih-fidan-96979a158/)
   - :pencil2: [Medium](https://fatihfidan.medium.com/)
   - :bar_chart:[Tableau](https://public.tableau.com/profile/fatih.fidan#!/)

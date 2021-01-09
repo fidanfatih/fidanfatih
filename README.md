@@ -16,7 +16,7 @@
 
 <img align="left" alt="TensorFlow" width="85px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjasst-lmQ2zB9sMNPQxQAXrvDmDHxxSNLw&usqp=CAU" />
 
-<img align="left" alt="Keras" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwS3kndalyY-lNJ77-B_yGGm5gBAZ2JRXZng&usqp=CAU" />
+<img align="left" alt="Keras" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwS3kndalyY-lNJ77-B_yGGm5gBAZ2JRXZng&usqp=CAU" />
 
 <img align="left" alt="Scikit Learn" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqe8229UE1DsRYR06QaKSop6cyWqcewXbXw&usqp=CAU" />
 
@@ -26,9 +26,9 @@
 
 <img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 
-<img align="left" alt="Tableau" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVw8Ka8GJ6Oqnjwdj47ZIPyFijvcLJgqKhfg&usqp=CAU" />
+<img align="left" alt="Tableau" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVw8Ka8GJ6Oqnjwdj47ZIPyFijvcLJgqKhfg&usqp=CAU" />
 
-<img align="left" alt="GSS" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4wlENx7ULbyI37Vf9Bw7ysEDWxP2fllkWg&usqp=CAU" />
+<img align="left" alt="GSS" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4wlENx7ULbyI37Vf9Bw7ysEDWxP2fllkWg&usqp=CAU" />
 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

@@ -35,6 +35,7 @@
 
 <img align="left" alt="AWS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4YUAN1xmci1gw5jtBhuq1PKCNLe7Xxh1Dw&usqp=CAU" />
 
+<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 

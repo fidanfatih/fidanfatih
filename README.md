@@ -28,9 +28,6 @@
 
 <img align="left" alt="Tableau" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVw8Ka8GJ6Oqnjwdj47ZIPyFijvcLJgqKhfg&usqp=CAU" />
 
-<img align="left" alt="GSS" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4wlENx7ULbyI37Vf9Bw7ysEDWxP2fllkWg&usqp=CAU" />
-
-
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />

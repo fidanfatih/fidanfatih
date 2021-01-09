@@ -15,19 +15,19 @@
 ### Languages and Tools:
 
 
-<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="center" alt="Jupyter" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLqIHmcbMAcDmLjLiCYnW3hm9EUypj9QJQTg&usqp=CAU" />
+<img align="left" alt="Jupyter" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLqIHmcbMAcDmLjLiCYnW3hm9EUypj9QJQTg&usqp=CAU" />
 
-<img align="center" alt="TensorFlow" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjasst-lmQ2zB9sMNPQxQAXrvDmDHxxSNLw&usqp=CAU" />
+<img align="left" alt="TensorFlow" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjasst-lmQ2zB9sMNPQxQAXrvDmDHxxSNLw&usqp=CAU" />
 
-<img align="center" alt="Keras" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwS3kndalyY-lNJ77-B_yGGm5gBAZ2JRXZng&usqp=CAU" />
+<img align="left" alt="Keras" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwS3kndalyY-lNJ77-B_yGGm5gBAZ2JRXZng&usqp=CAU" />
 
-<img align="center" alt="Scikit Learn" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqe8229UE1DsRYR06QaKSop6cyWqcewXbXw&usqp=CAU" />
+<img align="left" alt="Scikit Learn" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqe8229UE1DsRYR06QaKSop6cyWqcewXbXw&usqp=CAU" />
 
-<img align="center" alt="Apache Spark" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wS69x0hzjZx6VqzntgoIqMWrJbFnVlhLrQ&usqp=CAU" />
+<img align="left" alt="Apache Spark" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wS69x0hzjZx6VqzntgoIqMWrJbFnVlhLrQ&usqp=CAU" />
 
-<img align="center" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 

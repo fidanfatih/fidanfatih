@@ -26,13 +26,17 @@
 
 <img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 
+<img align="left" alt="Tableau" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVw8Ka8GJ6Oqnjwdj47ZIPyFijvcLJgqKhfg&usqp=CAU" />
+
+<img align="left" alt="GSS" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4wlENx7ULbyI37Vf9Bw7ysEDWxP2fllkWg&usqp=CAU" />
+
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />

@@ -1,10 +1,26 @@
-﻿### Hi there, I'm a Husband, Father and Developer!:raising_hand_man:
+﻿<img src="https://github-readme-stats.vercel.app/api?username=fidanfatih&show_icons=true&theme=buefy" align='right' width="55%">
 
+### Hi there 👋
+### I'm a husband, father and data scientist!:raising_hand_man:
 
 - :100: I have been fascinated by the power of the data.
 - :writing_hand: I can use Python, SQL and BI tools for Data Analysis and Machine Learning.
 - :running_man: I am currently improving my skills with NLP and Deep Learning.
 - :handshake: I always open to new ideas and new experiences.
+
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/fatihfidan/)
+[![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)]( https://public.tableau.com/profile/fatih.fidan#!/)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://fatihfidan.medium.com/)
+<!--
+**fidanfatih/ fidanfatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+- 💬 Ask me about anything that you want to learn
+
+-->
 
 
 ### Languages and Tools:
@@ -37,11 +53,4 @@
 
 <br />
 <br />
-
-### Connect with me:
-
-  - :atom: [LinkedIn]( https://www.linkedin.com/in/fatih-fidan-96979a158/)
-  - :pencil2: [Medium](https://fatihfidan.medium.com/)
-  - :bar_chart:[Tableau](https://public.tableau.com/profile/fatih.fidan#!/)
-
 

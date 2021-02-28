@@ -3,7 +3,6 @@
 ### Hi there 👋
 - :100: I have been fascinated by the power of the data.
 - :writing_hand: I can use BI tools for Data Analysis and ML.
-- :running_man: I am currently improving my skills with NLP and DL.
 - :handshake: I always open to new ideas and new experiences.
 
 

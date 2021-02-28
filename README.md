@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Spark" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/582px-Apache_Spark_logo.svg.png"/>
 
+<img align="left" alt="Scikit Learn" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqe8229UE1DsRYR06QaKSop6cyWqcewXbXw&usqp=CAU" />
+
 <img align="left" alt="Pandas" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
 
 <img align="left" alt="AWS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png"/>

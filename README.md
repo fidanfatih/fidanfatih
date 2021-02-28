@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="Jupyter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
 <img align="left" alt="SQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
-<img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 <img align="left" alt="Tensorflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
 
 <img align="left" alt="Keras" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png"/>
@@ -42,8 +41,6 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"/>
 
 <img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"/>
-
-<img align="left" alt="PyCharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/768px-PyCharm_Logo.svg.png"/>
 
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 

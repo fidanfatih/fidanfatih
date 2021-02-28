@@ -1,6 +1,6 @@
 ﻿<img src="https://github-readme-stats.vercel.app/api?username=fidanfatih&show_icons=true&theme=buefy" align='right' width="55%">
 
-### Hi there 👋
+### Hi there, I’m Fatih 👋
 - :100: I have been fascinated by the power of the data.
 - :writing_hand: I can use BI tools for Data Analysis and ML.
 - :handshake: I always open to new ideas and new experiences.
